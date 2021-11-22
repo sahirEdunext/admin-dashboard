@@ -1,0 +1,196 @@
+/* SET UP Css Start */
+.bx_1 {
+	width:auto;
+	height:auto;
+	background:#FBFBFC;
+	padding:10px;
+	margin:10px;
+	border-radius:5px;
+	min-height: 70px;
+    max-height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+.bx_img {
+    float: left;
+    width: 25%;
+}
+.bx_img img {
+	width:85%;
+}
+
+.bx_txt h1{
+	font-size:14px;
+    padding-top: 6px;	
+	padding-bottom: 6px;
+	color: #3C4043;
+	font-weight:600;
+
+}
+/* SET UP Css End */
+
+
+/* Voucher Type Css Start */
+.btn-mr{margin: 0px 0 !important;}
+
+.text-fil{
+	border-color: #7a86a533!important;
+}
+.of-bt {
+    margin: 0px 0px 0px 1px;
+
+}
+.spn-grn{
+background: #ecf6ec 0% 0% no-repeat padding-box;
+border-radius: 4px;
+color:#80c17e !important;
+padding:2px 10px 2px 10px;
+font-size:12px;
+max-width: 40px;
+display: block;
+margin: 0 auto;
+}
+.spn-red{
+background: #ffecec 0% 0% no-repeat padding-box;
+border-radius: 4px;
+color:#ff8181 !important;
+padding:2px 10px 2px 10px;
+font-size:12px;
+max-width: 40px;
+display: block;
+margin: 0 auto;
+}
+.as_tbl .as_tl{
+	text-align:center;
+}
+.as_tbl .pettyGrn{
+	text-align:center;
+}
+.as_tbl .pettyRed{
+	text-align:center;
+}
+.as_edit img {
+	width:20px;
+	height:20px;
+}
+
+
+/* Voucher Type Css End */
+
+
+/* Payment Type Ledgers Css Start */
+
+.btn-mr .nys > .dropdown-toggle {
+    background: #7a86a505 !important;
+    border: 1px solid #7a86a533 !important;
+    border-radius: 4px!important;
+    margin: 0px 0!important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.as_btn{
+    margin: 0 0rem!important;
+    padding: 0;
+    position: relative;
+    border: none;
+    height: 1.5rem;
+    width: 3rem;
+    border-radius: 1.5rem;
+}
+
+
+/* Payment Type Ledgers Css End */
+
+/* Ledgers Type tax Css Start */
+
+.as_header{
+	background-color:#7a86a50d;
+}
+
+/* Ledgers Type tax Css End */
+
+
+/* Class wise Imprest Account Report Start */
+.frm-group {
+    margin-bottom: 1rem;
+}
+
+
+/* Class wise Imprest Account Report End */
+
+
+/* Hover Delete Button Start */
+
+.mydivouter{
+position:relative;
+}
+.mydivoverlap{
+position: relative;
+z-index: 1;
+}
+.mybuttonoverlap{
+position: absolute;
+z-index: 2;
+top: 2px;
+display: none;
+right: 0px;	
+}
+.mydivouter:hover .mybuttonoverlap{ 
+display:block;
+}
+
+/* Hover Delete Button Start */
+
+
+/* Report Css Start */
+.frm1 {
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 2px solid #7A86A533;
+border-radius: 6px;
+    min-height: 270px;
+}
+
+.bx_txts {
+	background:#f8f9fb;
+	padding:2px;
+}
+
+.bx_txts h1 {
+    color: #3e85f0;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 0px 0px 0px 10px;
+}
+
+.frm1 ul {
+	padding-left:9px;
+}
+.frm1 ul li {
+	font-size:14px;
+	padding: 5px;
+}
+.pt-22 {
+    padding-top: 2rem !important;
+}
+.ppt15{
+	padding-top:15px;
+}
+
+.frm1 ul li a{
+	color:#000;
+}
+
+/* Report css End */
+
+
+/* Ledger Report CSS Start */
+
+.waves-effect-as{
+margin:0px 10px 10px 10px;	
+background:#7A86A50D!important;
+color:#000!important;
+}
+
+/* Ledger Report CSS END */

@@ -1,0 +1,292 @@
+
+
+/* custom select box code start here */
+
+
+/* .selection-box {
+    padding: 4px 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  } */
+  
+  .select-hidden {
+    display: none;
+    visibility: hidden;
+    padding-right: 10px;
+  }
+  
+  .select {
+    position: relative;
+    width: 100%;
+    color: #0F2641;
+    height: 33px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 400;
+    background: #7a86a505 !important;
+    border: 1px solid #7a86a533 !important;
+    border-radius: 4px !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 0.6rem;
+  }
+  
+  .select-styled {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 4px 10px;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+  }
+  .select-styled:after {
+    content: "";
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-color: #0F2641 transparent transparent transparent;
+    position: absolute;
+    top: 12px;
+    right: 6px;
+  }
+  
+  .select-styled:active:after, .select-styled.active:after {
+    top: 7px;
+    border-color: transparent transparent #0F2641 transparent;
+  }
+  
+  .select-options {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    z-index: 99999;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #eee;
+    background: #fff;
+    box-shadow: 0 3px 3px rgb(0 0 0 / 20%);
+    max-height: 300px;
+    overflow-y: auto;
+  
+  }
+  
+  .select-options::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  .select-options::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  .select-options::-webkit-scrollbar-thumb {
+    background-color: #edf1f2;
+    border-radius: 20px;
+    border: 8px solid transparent;
+    background-clip: content-box;
+  }
+  
+  .select-options li {
+    margin: 0 !important;
+    line-height: 1.2 !important;
+    padding: 12px 0 !important;
+    display: block !important;
+    color: #0F2641 !important;
+    text-indent: 15px;
+    -moz-transition: all 0.15s ease-in;
+    -o-transition: all 0.15s ease-in;
+    -webkit-transition: all 0.15s ease-in;
+    transition: all 0.15s ease-in;
+  }
+  .select-options li:hover {
+    background: #f8f9fa;
+    color: #0052cc;
+  }
+  .select-options li[rel="hide"] {
+    display: none;
+  }
+  
+  
+  /* custom select box code start here */
+
+
+
+  #input-date, #bulk-sms-datepicker {
+    appearance: none;
+    background: url(../images/calendar-icon.svg) #7a86a505 !important;
+    background-repeat: no-repeat !important;
+    background-position: 99% 7px !important;
+  }
+
+
+
+/* Add Petty Cash Section Css Start Here */
+
+.petty-cash-wrapper {
+    padding: 0 15px;
+}
+
+.petty-cash-section {
+    padding: 15px 0;
+}
+
+.bg-light-blue{
+    background: #F5F9FE;
+}
+.bg-light-red{
+    background: #fff6f6;
+}
+.bg-light-green{
+    background: #f6fbf6;
+}
+.expense-price:focus {
+    color: #FF4646;
+}
+.expense-price {
+    color: #FF4646;
+}
+.deposit-price:focus {
+    color: #4DAB4A;
+}
+.deposit-price {
+    color: #4DAB4A;
+}
+.info-box-detail h3 {
+    color: #3C4043;
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.info-box-detail h5 {
+    margin: 0;
+    color: #3C4043;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.info-box-detail {
+    padding: 10px 15px;
+}
+
+.lbl-price {
+    color: #3E85F0;
+}
+
+.tbl-wrapper, .add-row-wrapper {
+    padding:0 15px;
+}
+
+.form-box label {
+    margin-bottom: 5px;
+    font-size: 13px;
+    color: #7A86A5;
+}
+
+.form-box .form-textbox {
+    border: 1px solid #7A86A533;
+    border-radius: 4px;
+    background: #7A86A505;
+    font-size: 13px;
+}
+
+.sk_book_table.tbl-common-petty-cash {
+    margin-bottom: 0px;
+ }
+
+.sk_book_table.tbl-common-petty-cash th {
+   padding-bottom:0px !important;
+   padding-left: 11px !important;
+   text-align: left;
+}
+
+.sk_book_table.tbl-common-petty-cash th:last-child {
+    text-align: left !important;
+ }
+
+ .tbl-input-field .txt-field{
+     background: #F8F9FB;
+     border: 1px solid #8D909933;
+     border-radius: 4px;
+     font-size: 13px;
+ }
+
+ .add-row-wrapper .btn-add-row {
+    background: #EBF3FD;
+    color: #3E85F0;
+    border-radius: 4px;
+    border: none;
+    padding: 5px 10px;
+    font-size: 13px;
+    transition:0.3s all;
+}
+
+.add-row-icon path#Path_919:hover {
+  fill: #fff;
+}
+
+.add-row-wrapper .btn-add-row:hover {
+    background: #3E85F0;
+    color: #FFFFFF;
+}
+
+.add-row-wrapper .btn-add-row img {
+   width:18px;
+}
+
+.add-row-wrapper .btn-add-row span {
+    position: relative;
+    top:1px;
+ }
+
+/* Add Petty Cash Section Css End Here */
+
+
+/* Common Dropdown Action Css Start Here */
+
+.common-dropdown-content li a {
+  padding: 7px 10px;
+  border-bottom: 1px solid #8d90990d;
+  margin: 0;
+  width: 150px;
+}
+
+.common-dropdown-content li a:hover{
+  background-color: transparent;
+}
+
+.common-dropdown-content li a:hover span{
+  color: #0080ff;
+  background-color: transparent;
+}
+
+.common-dropdown-content li a img{
+  margin-right:5px;
+  width: 18px;
+  height: 18px;
+}
+
+.common-dropdown-content li a span{
+  color: #3C4043;
+font-weight: 400;
+}
+
+
+
+/* Common Dropdown Action Css End Here */
+
+
+
+
+
+
+

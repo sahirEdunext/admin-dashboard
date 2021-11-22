@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6769" data-name="Rectangle 6769" width="48" height="48" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_15380" data-name="Group 15380" transform="translate(-197 -589)">
+    <circle id="Ellipse_703" data-name="Ellipse 703" cx="32" cy="32" r="32" transform="translate(197 589)" fill="#eef5ff"/>
+    <g id="Group_15328" data-name="Group 15328" transform="translate(205 597)">
+      <path id="Path_21917" data-name="Path 21917" d="M3.862,23.514H10.9L9.186,26.1l-1.062-.712H2V16.712H3.862Z" transform="translate(2 16.712)"/>
+      <rect id="Rectangle_6761" data-name="Rectangle 6761" width="10.554" height="1.872" transform="translate(21.46 23.906)"/>
+      <rect id="Rectangle_6762" data-name="Rectangle 6762" width="10.554" height="1.874" transform="translate(21.46 27.24)"/>
+      <rect id="Rectangle_6763" data-name="Rectangle 6763" width="10.554" height="1.874" transform="translate(21.46 30.426)"/>
+      <rect id="Rectangle_6764" data-name="Rectangle 6764" width="10.554" height="1.874" transform="translate(21.46 33.744)"/>
+      <path id="Path_21918" data-name="Path 21918" d="M23.266,5.086H16.23L17.942,2.5l1.08.712h6.106v8.676H23.266Z" transform="translate(16.23 2.5)"/>
+      <g id="Group_15327" data-name="Group 15327">
+        <g id="Group_15326" data-name="Group 15326" clip-path="url(#clip-path)">
+          <path id="Path_21919" data-name="Path 21919" d="M12.545,21.228c-.112,0-.2.018-.316.018a9.06,9.06,0,0,1,0-18.118A9.022,9.022,0,0,1,21.181,12.2c0,.114-.018.206-.018.32H35.645l5.08,6.932H34.677v7.12H32.815v-7.12H18.147l-.242-.318a8.6,8.6,0,0,1-3.5,1.818" transform="translate(3.275 3.128)" fill="#d2e4ff"/>
+          <path id="Path_21920" data-name="Path 21920" d="M6.13,6.312v.03H7.648a2.872,2.872,0,0,1,.858.15,1.593,1.593,0,0,1,.906.718v.01H6.7c-.01,0-.2.27-.58.808,0,.02.01.02.02.02H9.556a.9.9,0,0,1-.072.37c-.306.8-1.09,1.2-2.344,1.2a4.938,4.938,0,0,1-.7-.04l-.01.03v.778c0,.01,1.12,1.3,3.374,3.852h1.518q-3.456-3.951-3.456-4.012v-.008a3.681,3.681,0,0,0,1.6-.4,2.457,2.457,0,0,0,.938-.758,2.529,2.529,0,0,0,.408-1.008h1.06c.01,0,.194-.26.56-.8,0-.02-.01-.02-.03-.03H10.768a1.98,1.98,0,0,0-.438-.878h1.54c.04-.04.234-.31.57-.818v-.01H6.7a8.265,8.265,0,0,0-.57.8" transform="translate(6.12 5.514)" fill="#3e85f0"/>
+          <path id="Path_21921" data-name="Path 21921" d="M35.642,12.514H21.162c0-.112.018-.206.018-.318a9.024,9.024,0,0,0-8.952-9.068,9.06,9.06,0,0,0,0,18.118c.112,0,.2-.018.316-.018v9.388H6.662l4.672,7.044H24.846V35.788H14.4V20.946a8.564,8.564,0,0,0,3.5-1.816l.244.318H32.814v7.12h1.862v-7.12h6.048Zm-23.1,23.274h-.2l-2.2-3.3h2.4Zm-.316-16.416a7.186,7.186,0,1,1,7.09-7.176,7.146,7.146,0,0,1-7.09,7.176m7.166-1.8a8.983,8.983,0,0,0,1.49-3.186H34.71l2.328,3.186Z" transform="translate(3.276 3.128)" fill="#3e85f0"/>
+          <rect id="Rectangle_6765" data-name="Rectangle 6765" width="10.554" height="1.874" transform="translate(21.458 23.906)" fill="#3e85f0"/>
+          <rect id="Rectangle_6766" data-name="Rectangle 6766" width="10.554" height="1.874" transform="translate(21.458 27.242)" fill="#3e85f0"/>
+          <rect id="Rectangle_6767" data-name="Rectangle 6767" width="10.554" height="1.874" transform="translate(21.458 30.426)" fill="#3e85f0"/>
+          <rect id="Rectangle_6768" data-name="Rectangle 6768" width="10.554" height="1.874" transform="translate(21.458 33.744)" fill="#3e85f0"/>
+          <path id="Path_21922" data-name="Path 21922" d="M25.127,3.212v8.676H23.265v-6.8H16.229L17.943,2.5l1.078.712Z" transform="translate(16.229 2.5)" fill="#3e85f0"/>
+          <path id="Path_21923" data-name="Path 21923" d="M10.9,23.514,9.185,26.1l-1.062-.712H2V16.712H3.862v6.8Z" transform="translate(2 16.712)" fill="#3e85f0"/>
+          <path id="Path_21924" data-name="Path 21924" d="M24.959,22.4V20.6l-1.3-.15c-.056-.168-.13-.318-.2-.488l.836-1.03-1.264-1.274L22,18.483a3.165,3.165,0,0,0-.484-.186l-.15-1.332H19.6L19.449,18.3a3.591,3.591,0,0,0-.466.186l-1.042-.824-1.246,1.274.818,1.03c-.074.17-.15.338-.206.488l-1.3.15v1.8l1.3.132c.076.188.132.338.206.488l-.818,1.048,1.246,1.274,1.042-.842c.15.074.316.15.466.206l.148,1.33h1.768l.15-1.33c.168-.056.316-.132.484-.206l1.024.842,1.248-1.274-.82-1.048a3.963,3.963,0,0,0,.2-.488Zm-4.466.844a1.743,1.743,0,0,1,0-3.486,1.743,1.743,0,0,1,0,3.486" transform="translate(16.007 16.965)" fill="#3e85f0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

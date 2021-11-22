@@ -1,0 +1,54 @@
+.narVoucher::before
+{
+	left: 11em;		
+}
+.narVoucher::after{
+	left: 11.5em;
+}
+.narNarration::before{
+	left: 8em;			
+}
+.narNarration::after{
+	left: 8.5em;
+}
+.checkCenter{
+	line-height:0px;
+}
+/*** Voucher Scheme Page CSS Start **/
+.spn-pettyGrn{
+background: #ecf6ec 0% 0% no-repeat padding-box;
+border-radius: 4px;
+color:#80c17e !important;
+padding:2px 10px 2px 10px;
+font-size:12px;
+max-width: 40px;
+display: block;
+}
+.spn-pettyRed{
+background: #ffecec 0% 0% no-repeat padding-box;
+border-radius: 4px;
+color:#ff8181 !important;
+padding:2px 10px 2px 10px;
+font-size:12px;
+max-width: 40px;
+display: block;
+}
+/*** Voucher Scheme Page CSS End **/
+
+/*** Vouchers Page CSS Start **/
+.menuIconVouchers {
+    width: 24px;
+    cursor: pointer;
+    height: 24px;
+    background-image: url(../images/menuIconVouchers.svg);
+    background-repeat: no-repeat;
+}
+.vouchersImg{
+	width: 3px;
+}
+/*** Voucher Page CSS End **/
+
+
+
+
+

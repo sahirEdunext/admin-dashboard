@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_130" data-name="Path 130" d="M912.928,3290.738h18v18h-18Z" transform="translate(-912.928 -3290.738)" fill="#4dab4a"/>
+    </clipPath>
+  </defs>
+  <g id="Group_14649" data-name="Group 14649" transform="translate(-1732 -346)">
+    <circle id="Ellipse_702" data-name="Ellipse 702" cx="12" cy="12" r="12" transform="translate(1732 346)" fill="rgba(77,171,74,0.1)"/>
+    <g id="Group_14647" data-name="Group 14647" transform="translate(822.072 -2941.739)">
+      <g id="Group_14646" data-name="Group 14646" transform="translate(912.928 3290.739)" clip-path="url(#clip-path)">
+        <g id="Show" transform="translate(1.328 2.85)">
+          <g id="Stroke_1" data-name="Stroke 1" transform="translate(4.626 3.104)">
+            <path id="Path_21810" data-name="Path 21810" d="M923.912,3304.77a3.047,3.047,0,1,1,3.045-3.043A3.046,3.046,0,0,1,923.912,3304.77Zm0-4.738a1.7,1.7,0,1,0,1.7,1.7A1.7,1.7,0,0,0,923.912,3300.031Z" transform="translate(-920.865 -3298.676)" fill="#4dab4a"/>
+          </g>
+          <g id="Stroke_3" data-name="Stroke 3">
+            <path id="Path_21811" data-name="Path 21811" d="M922.372,3306.84h0c-3.148,0-5.973-2.2-7.557-5.887l-.113-.262.113-.27c1.584-3.687,4.41-5.883,7.557-5.883s5.977,2.2,7.561,5.883l.113.27-.113.262c-1.584,3.684-4.408,5.887-7.557,5.887Zm-6.2-6.148c1.379,3.012,3.68,4.793,6.2,4.8,2.518-.008,4.818-1.789,6.2-4.8-1.381-3.016-3.682-4.8-6.2-4.8S917.55,3297.676,916.171,3300.691Z" transform="translate(-914.698 -3294.539)" fill="#4dab4a"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
