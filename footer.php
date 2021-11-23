@@ -1,6 +1,6 @@
 <footer class="main-footer pull-right">
   
-	  &copy; 2022 <a href="https://www.multipurposethemes.com/">Multipurpose Themes</a>. All Rights Reserved.
+	  &copy; 2022 <a href="https://www.multipurposethemes.com/">Edunext</a>. All Rights Reserved.
   </footer>
 
 
